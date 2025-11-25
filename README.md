@@ -75,7 +75,7 @@ A line chart of Revenue Trend was created, i added a parameter named KPI into th
 Conclusively, I put all the visuals of the question asked into a report template. The Report has 3 Pages, i created a “Overview” page which is the Home Page and provided users with quick access to navigate between pages in the report. The other 2 pages are Customer Page and Product & Channel Page.
 Below are the images of the 3 Page Reports.
 ![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/image.PNG)
-![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/image.PNG)
-![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/image.PNG)
+![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/Customer%20Analysis.PNG)
+![]()
 
 Click [Here](https://app.powerbi.com/links/S-mZN2FIYa?ctid=d5bc17d2-4910-4403-86b9-672f3274f2f9&pbi_source=linkShare) to interact with the dashboard. You can also view the pdf of the final report [Here](https://github.com/phuad23/E-Commerce-Analysis/blob/main/E%20commerce%20Dashboard.pdf) 
