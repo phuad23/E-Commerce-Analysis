@@ -65,17 +65,21 @@ After doing the data modeling, then i created some measures using DAX formular t
 All the question was answered and visualized with the necessary charts.
 
 **Insights**
-
-1. From the Line Chart of the Revenue Trends, it was discovered that 
+1. in 2024, the total revenue generated was $14.57 million, while the total unit sold was 135,000 and the average selling price for 2024 was $108.1
+2. From the Line Chart of the Revenue Trends, it was discovered that in the year 2024  the sales started from April and November is the month that generated the highest revenue of $1,794,931 while April generated the least revenue of $500,500.9
+3. Website is the channel that generated the hoghest revenue of about $14.4million while Partner generated the least reevenue of about $3.3million
+4.  
 
 **Report Design**
 
 I created some KPI's which are Card visuals, the following KPI's are created: Total Revenue, Loyal Customers, Unit Sold and Average Selling Price. 
 A line chart of Revenue Trend was created, i added a parameter named KPI into the line chart so as to toggle between the following KPI, Total Revenue, Unit Sold and Total Order against the month column.
+
 Conclusively, I put all the visuals of the question asked into a report template. The Report has 3 Pages, i created a “Overview” page which is the Home Page and provided users with quick access to navigate between pages in the report. The other 2 pages are Customer Page and Product & Channel Page.
+
 Below are the images of the 3 Page Reports.
 ![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/image.PNG)
 ![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/Customer%20Analysis.PNG)
-![]()
+![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/Product%20%26%20Channel%20Analysis.PNG)
 
 Click [Here](https://app.powerbi.com/links/S-mZN2FIYa?ctid=d5bc17d2-4910-4403-86b9-672f3274f2f9&pbi_source=linkShare) to interact with the dashboard. You can also view the pdf of the final report [Here](https://github.com/phuad23/E-Commerce-Analysis/blob/main/E%20commerce%20Dashboard.pdf) 
