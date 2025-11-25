@@ -10,7 +10,8 @@ I leveraged my DAX skills to create measures and generate insightful visualizati
 3. Data Cleaning
 4. Data Modeling
 5. Exploratory Data Analysis
-6. Report Design
+6. Insight
+7. Report Design
 
 Lets dive in!
 
@@ -64,13 +65,19 @@ After doing the data modeling, then i created some measures using DAX formular t
 
 All the question was answered and visualized with the necessary charts.
 
-**Insights**
+**Step 6: Insights**
 1. in 2024, the total revenue generated was $14.57 million, while the total unit sold was 135,000 and the average selling price for 2024 was $108.1
-2. From the Line Chart of the Revenue Trends, it was discovered that in the year 2024  the sales started from April and November is the month that generated the highest revenue of $1,794,931 while April generated the least revenue of $500,500.9
-3. Website is the channel that generated the hoghest revenue of about $14.4million while Partner generated the least reevenue of about $3.3million
-4.  
+2. From the Line Chart of the Revenue Trends, The month with the highest revenue is july which generated $3,685,397.24.
+Also it was discovered that in the year 2024  the sales started from April, November is the month that generated the highest revenue of $1,794,931 while April generated the least revenue of $500,500.9 while in 2025 July is the month that generated the highest revenue of $1,930,917.34 and October generated the least revenue of $1,229,646.09.
+4. Website is the channel that generated the highest revenue of about $14.4million  and also brought the highest loyal customer of 3851 while Partner generated the least reevenue of about $3.3million and also brought the least loyal customer of 1360.
+5. The product with the highest revenue is Microsoft 365 Business Standard Annual which generate about $1,630,479.22 while AI Assistant Add-on monthly generated the lowest revenue of $27,306.57.
+6. The top product that generated the highest revenue among loyal customers is Datadog Pro Annual which generated about $59,594.58 while FreshDeck Growth Monthly generated the least revenue of $64.48.
+7. The Average days to second purchase of customer was categorized by Customer Segment. so, the average days to second purcahse of Consumer is 255 days, the average days to second purcahse of SOHO is 254 days, the average days to second purcahse of SMB is 251 days and the average days to second purcahse of Enterprise is 250 days.
+8. Germany is the country with the highest average selling price of $125 while Australia is the country with the lowest average selling price of $107.
+9. The billing cycle that generated the highest revenue per customer is Annual Subscription with revenue of $7,041.69 while Monthly Subscription generated the least revenue per customer of $698.86.
+10. The Region that generated the highest revenue per customer is LATAM (Latin America) of about $8,679.12 while North America generated the least revenue per customer of $7,230.37.
 
-**Report Design**
+**Step 7: Report Design**
 
 I created some KPI's which are Card visuals, the following KPI's are created: Total Revenue, Loyal Customers, Unit Sold and Average Selling Price. 
 A line chart of Revenue Trend was created, i added a parameter named KPI into the line chart so as to toggle between the following KPI, Total Revenue, Unit Sold and Total Order against the month column.
