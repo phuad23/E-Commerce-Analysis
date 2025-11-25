@@ -9,8 +9,8 @@ I leveraged my DAX skills to create measures and generate insightful visualizati
 2. Understand the dataset
 3. Data Cleaning
 4. Data Modeling
-5. Data Analysis
-6. Data Visualization
+5. Exploratory Data Analysis
+6. Report Design
 
 Lets dive in!
 
@@ -35,6 +35,40 @@ The data is not that messy so i checked for the duplicate value, missing value a
 
 The data model was done joined the Facts table  which is the (Events Table) to the Dimension Tables which are (Products and Customers Table) based on their relationship.
 below is the data model of this project
-![]
+![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/model.PNG)
 
+**Step 5: Exploratory Data Analysis**
 
+After doing the data modeling, then i created some measures using DAX formular to answer some of the question asked.
+
+1. 	How do total sales change by month?
+   To answer this question, i created a line chart to visualize the month against the total revenue. By this, you can toggle among the month to see how sales changes on monthly basis.
+
+2. 	Which channels bring in the most sales?
+   To answer this question, i created a Clustered Bar chart to visualize the Total Revenue against the sales channel to see the channel that bring in more sales.
+
+3. Which channels bring the most repeat (loyal) customers?
+   To answer this question, i created a Stacked Bar chart to visualize the Sales Channel against the Loyal (repeat) Customers. mind you, i already use DAX formula to calculate the loyal customer. i based my loyal customers on customer who has patronized more than once.
+
+4. What percent of monthly sales comes from loyal customers?
+   To answer this question, i created a line chart to visualize Month against the Loyal Revenue in percentage. i used DAX formula to calcuate the Loyal Revenue %, to get this i Divided my Loyal Revenue by Total      Revenue to get the loyal revenue %.
+
+5. Which products or plans sell the most?
+   To answer this question, i created a Stacked Bar chart to visualize Total Revenue against the Product name to see the product that generated the highest revenue.
+
+6. Which products are most popular with loyal customers?
+   To answer this question, i created a Clustered Bar chart to visualize Product name against the Loyal Customers to see which product is more common or popular among the loyal (repeat) customers.
+
+7. How long do customers wait before their second purchase?
+   To answer this question, i created a Stacked Bar chart to visualize the Segment against Average Days to Second Purchase. This Avergae Days to Second Purcahse was calcluated using DAX formular, i first calcukated the first purchase and second purchase date, after which their difference is the days to second purchase, then i used AverageX function to calcuate the Average Days to Second Purchase and Values of the Events(customer_id).
+
+All the question was answered and visualized with the necessary charts.
+
+**Insights**
+
+1. From the Line Chart of the Revenue Trends, it was discovered that 
+
+**Report Design**
+Conclusively, I put all the visuals of the question asked into a report template. The Report has 3 Pages, i created a “Overview” page which is the Home Page and provided users with quick access to navigate between pages in the report. The other 2 pages are Customer Page and Product & Channel Page.
+
+Click [Here](https://www.novypro.com/project/case-study-analyzing-healthcare-data) to interact with the dashboard. You can also view the pdf of the final report [Here](https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI/blob/main/Analyzing%20Healthcare%20Data.pdf) 
