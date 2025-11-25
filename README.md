@@ -71,4 +71,4 @@ All the question was answered and visualized with the necessary charts.
 **Report Design**
 Conclusively, I put all the visuals of the question asked into a report template. The Report has 3 Pages, i created a “Overview” page which is the Home Page and provided users with quick access to navigate between pages in the report. The other 2 pages are Customer Page and Product & Channel Page.
 
-Click [Here](https://www.novypro.com/project/case-study-analyzing-healthcare-data) to interact with the dashboard. You can also view the pdf of the final report [Here](https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI/blob/main/Analyzing%20Healthcare%20Data.pdf) 
+Click [Here](https://app.powerbi.com/links/S-mZN2FIYa?ctid=d5bc17d2-4910-4403-86b9-672f3274f2f9&pbi_source=linkShare) to interact with the dashboard. You can also view the pdf of the final report [Here]() 
