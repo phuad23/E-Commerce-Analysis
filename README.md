@@ -89,4 +89,4 @@ Below are the images of the 3 Page Reports.
 ![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/Customer%20Analysis.PNG)
 ![](https://github.com/phuad23/E-Commerce-Analysis/blob/main/Product%20%26%20Channel%20Analysis.PNG)
 
-Click [Here](https://app.powerbi.com/links/S-mZN2FIYa?ctid=d5bc17d2-4910-4403-86b9-672f3274f2f9&pbi_source=linkShare) to interact with the dashboard. You can also view the pdf of the final report [Here](https://github.com/phuad23/E-Commerce-Analysis/blob/main/E%20commerce%20Dashboard.pdf) 
+Click [Here](https://github.com/phuad23/E-Commerce-Analysis/blob/main/E%20commerce%20Dashboard.pbix) to download the dashboard. You can also view the pdf of the final report [Here](https://github.com/phuad23/E-Commerce-Analysis/blob/main/E%20commerce%20Dashboard.pdf) 
